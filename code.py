@@ -1,3 +1,7 @@
+def my_superfunction():
+    print("Yandexlyceum")
+
+
 def main():
     print("This is the first print!")
     print("Added second print.")
